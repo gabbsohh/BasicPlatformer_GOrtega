@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Basic_Platform_GO/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Basic_Platform_GO/Content/bp_GameMode.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Basic_Platform_GO/Content/PlatformLevel01.umap",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Basic_Platform_GO/Content/bp_MyCharacter.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Basic_Platform_GO/Content/PlatformLevel02.umap",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Basic_Platform_GO/Content/Goal.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Basic_Platform_GO/Content/myGameInstance.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Basic_Platform_GO/Content/bp_coin.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Basic_Platform_GO/Content/FallVolume.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Basic_Platform_GO/Content/bp_FallVolume.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Basic_Platform_GO/Content/bp_G.uasset",
+				"C:/Users/orteg/Downloads/LSC FALL 23/GAME 2303 - AI PROGRAMMING/Unreal/Basic_Platform_GO/Content/myGame.uasset"
+			]
+		}
+	]
+}
